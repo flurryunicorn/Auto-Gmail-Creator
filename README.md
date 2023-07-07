@@ -3,7 +3,7 @@
 ## Summary
 Latest Open Source Bulk Auto Google Account ( Gmail ) Regiteration Bot Script 2023
 
-<a class="github-fork-ribbon right-top" href="https://github.com/leostech/Auto-Gmail-Creator/fork" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a> <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leostech.leostech" />
+<a class="github-fork-ribbon right-top" href="https://github.com/flurryunicorn/Auto-Gmail-Creator/fork" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a> <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leostech.leostech" />
 
 According to [Jonathan](https://www.quora.com/profile/Jonathan-Elder)'s desription ,only about five gmail addresses can be verified on a single phone number.
 
@@ -85,29 +85,4 @@ To bypass bot-detection, I am all ears to hear from you.
 - To see the country code, you can hit here.
     ![auto-gmail-creator-leostech](./data/images/country-code-leostech.jpg)
     ![auto-gmail-creator-leostech](./data/images/country-table-leostech.jpg)
-
-## Email
-
-leoshabit@gmail.com
-
-## Telegram
-
-https://t.me/leoshabit
-
-## Discord
-
-leoshabit#0825
-
-## Skype
-
-https://join.skype.com/invite/H6S0RFA69GNK
-
-
-## Github
-
-https://github.com/leoshabit
-
-## Phone
-
-+12292995932
 
